@@ -96,7 +96,7 @@ Avc , I1v = bv*hv, 1/12*bv*hv**3
 mv = Avc*gammac/g
 
 # Cargas: Muerta y Viva
-wle = 2.37e3 # carga de entrepiso (N/m^2)
+wle = 2.5e3 # carga de entrepiso (N/m^2)
 wfp = 3.00e3 # carga fachadas y particiones (N/m^2)
 wap = 1.60e3 # carga acabados y afinado de piso (N/m^2)
 wL = 1.80e3 # carga viva (N/m^2)
